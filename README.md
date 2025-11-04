@@ -27,11 +27,36 @@ To make the Word of God **universally accessible** in every language and format 
 
 | Feature | Description |
 |----------|-------------|
-| **Modernized Architecture** | Refactored structure for cleaner endpoints and improved caching. |
-| **AI-Ready JSON Schema** | Structured for natural-language processing and semantic search. |
-| **Multilingual Expansion** | Enhanced support for translations, including underrepresented languages. |
-| **CDN-Optimized Access** | Faster global delivery with flexible versioning. |
+| **Modernized Architecture** | Initial refactor underway to simplify endpoint structure and improve caching. |
+| **AI-Ready JSON Schema** | Future updates will introduce an AI-ready JSON schema for natural-language processing and semantic search. |
+| **Multilingual Expansion** | Roadmap includes expanded multilingual support, with emphasis on underrepresented translations. |
+| **CDN-Optimized Access** | Delivered globally via jsDelivr CDN; future versions will add structured versioning for releases. |
 | **Community Maintenance** | Actively maintained and open for collaboration. |
+
+---
+
+## 🧩 Change Log & Progress Tracker
+
+This section documents the ongoing development and evolution of **ScriptureFlow** — ensuring transparency and helping contributors follow project milestones.
+
+| Status | Feature / Improvement | Description | Date |
+|:-------:|------------------------|--------------|:----:|
+| ✅ | **Fork Established** | ScriptureFlow created as an actively maintained continuation of the original Bible-API by Henok Woldesenbet. | Nov 2025 |
+| ✅ | **Repository Rebrand** | Updated branding, README, and documentation to reflect new project direction. | Nov 2025 |
+| 🛠️ | **Architecture Refactor (Phase 1)** | Simplifying endpoint structure for consistency and performance. | In Progress |
+| 🛠️ | **JSON Schema Review** | Designing AI/NLP-ready data model for verse and chapter metadata. | In Progress |
+| 🔜 | **Multilingual Expansion** | Adding support for new translations, including underrepresented languages. | Planned |
+| 🔜 | **Version Tagging & Releases** | Implementing semantic versioning for future API stability. | Planned |
+| 🔜 | **Audio Bible Integration** | Exploring inclusion of high-quality audio verse files via CDN. | Planned |
+| 🔜 | **Mobile SDKs** | Early-stage planning for SDKs for Android and iOS. | Planned |
+
+---
+
+📅 **Next Milestone:**  
+Release **v0.2.0** — featuring improved directory structure, standardized JSON output, and expanded test coverage.
+
+🧠 **Future Direction:**  
+Integration of AI-powered verse clustering, semantic search, and multilingual indexing using modern LLM pipelines.
 
 ---
 
