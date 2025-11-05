@@ -1,4 +1,5 @@
 # ScriptureFlow API 🌊
+[![Sponsor](https://img.shields.io/badge/Sponsor-ScriptureFlow-blue?logo=github-sponsors&style=flat)](https://github.com/sponsors/Exnav29)
 
 **ScriptureFlow** is a modern, open-source platform for accessing the Holy Scriptures through a simple and reliable JSON API.  
 It builds upon the pioneering [Bible-API](https://github.com/wldeh/bible-api) by [Henok Woldesenbet](https://github.com/wldeh), honoring his foundational work while introducing a refreshed vision for performance, multilingual access, and AI-ready integration.
@@ -22,6 +23,26 @@ ScriptureFlow carries that legacy forward — expanding, modernizing, and mainta
 To make the Word of God **universally accessible** in every language and format — empowering developers, ministries, and educators to integrate Scripture seamlessly into digital experiences.
 
 ---
+## ❤️ Support ScriptureFlow
+
+ScriptureFlow exists to make Scripture accessible in every language — especially those that are underrepresented in digital tools and online resources.
+
+We believe that preserving, sharing, and digitizing Scripture in African and indigenous languages is an act of cultural stewardship and faith.
+
+If this mission resonates with you and you would like to help sustain ongoing development, new translation onboarding, and hosting costs, please consider supporting the project:
+
+👉 **GitHub Sponsors:** https://github.com/sponsors/Exnav29
+
+Your support helps:
+
+- Keep ScriptureFlow free for everyone
+- Maintain and expand translations (including Twi, Ewe, Ga, Dagbani, and more)
+- Ensure African languages continue to live, grow, and remain present in digital spaces
+- Support open access Bible study tools for churches, researchers, educators, and developers
+
+Thank you for being part of this mission. 💙
+
+ ---
 
 ## 🚀 What’s New in ScriptureFlow
 
@@ -113,26 +134,11 @@ Enhancements and refactor © 2025 Johnathan Lightfoot / ScriptureFlow Project.
 
 ---
 
-## ❤️ Support ScriptureFlow
-
-ScriptureFlow exists to make Scripture accessible in every language — especially those that are underrepresented in digital tools and online resources.
-
-We believe that preserving, sharing, and digitizing Scripture in African and indigenous languages is an act of cultural stewardship and faith.
-
-If this mission resonates with you and you would like to help sustain ongoing development, new translation onboarding, and hosting costs, please consider supporting the project:
-
-👉 **GitHub Sponsors:** https://github.com/sponsors/Exnav29
-
-Your support helps:
-
-- Keep ScriptureFlow free for everyone
-- Maintain and expand translations (including Twi, Ewe, Ga, Dagbani, and more)
-- Ensure African languages continue to live, grow, and remain present in digital spaces
-- Support open access Bible study tools for churches, researchers, educators, and developers
-
-Thank you for being part of this mission. 💙
+Crafted with 💙 by the **ScriptureFlow Team** —  
+*Where the Word Moves Freely.*
 
 ---
 
-Crafted with 💙 by the **ScriptureFlow Team** —  
-*Where the Word Moves Freely.*
+---
+
+*ScriptureFlow is maintained by the community and supported by individuals and ministries who believe in open, accessible Scripture for all people. Thank you for helping this work continue.*
